@@ -1,0 +1,1 @@
+##Plot the 30-day mortality rates for heart attack
